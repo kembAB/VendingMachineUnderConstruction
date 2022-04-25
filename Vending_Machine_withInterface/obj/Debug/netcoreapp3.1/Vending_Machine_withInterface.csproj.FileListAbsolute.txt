@@ -1,0 +1,8 @@
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\bin\Debug\netcoreapp3.1\Vending_Machine_withInterface.exe
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\obj\Debug\netcoreapp3.1\Vending_Machine_withInterface.csproj.AssemblyReference.cache
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\obj\Debug\netcoreapp3.1\Vending_Machine_withInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\obj\Debug\netcoreapp3.1\Vending_Machine_withInterface.AssemblyInfoInputs.cache
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\obj\Debug\netcoreapp3.1\Vending_Machine_withInterface.AssemblyInfo.cs
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\obj\Debug\netcoreapp3.1\Vending_Machine_withInterface.csproj.CoreCompileInputs.cache
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\obj\Debug\netcoreapp3.1\Vending_Machine_withInterface.dll
+C:\Users\haile\source\repos\Vending_Machine_withInterface\Vending_Machine_withInterface\obj\Debug\netcoreapp3.1\Vending_Machine_withInterface.pdb
